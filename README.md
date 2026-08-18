@@ -37,7 +37,7 @@ Run the audit script as Administrator:
 ---
 
 ## 📊 Sample Output
-![Security Report Preview](img/report_preview.png)
+![Security Report Preview](report_preview.png)
 ```
 
 ---
