@@ -1,7 +1,5 @@
 # Windows Security Auditing Tool (PowerShell)
 
-A lightweight PowerShell script designed to automate the baseline security auditing of local Windows workstations and servers.
-
 ---
 
 ## 🔍 Key Features
